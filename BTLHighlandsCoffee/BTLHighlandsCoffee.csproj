@@ -1,0 +1,640 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{EB6540E8-127D-4C26-98E3-D04C3025BBBB}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>BTLHighlandsCoffee</RootNamespace>
+    <AssemblyName>BTLHighlandsCoffee</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="ExcelDataReader, Version=3.6.0.0, Culture=neutral, PublicKeyToken=93517dbe6a4012fa, processorArchitecture=MSIL">
+      <HintPath>..\packages\ExcelDataReader.3.6.0\lib\net45\ExcelDataReader.dll</HintPath>
+    </Reference>
+    <Reference Include="ExcelDataReader.DataSet, Version=3.6.0.0, Culture=neutral, PublicKeyToken=93517dbe6a4012fa, processorArchitecture=MSIL">
+      <HintPath>..\packages\ExcelDataReader.DataSet.3.6.0\lib\net35\ExcelDataReader.DataSet.dll</HintPath>
+    </Reference>
+    <Reference Include="FontAwesome.Sharp, Version=5.15.3.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\FontAwesome.Sharp.5.15.3\lib\net472\FontAwesome.Sharp.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.DataVisualization, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1449.0\lib\net40\Microsoft.ReportViewer.DataVisualization.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Design, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1449.0\lib\net40\Microsoft.ReportViewer.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.ProcessingObjectModel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1449.0\lib\net40\Microsoft.ReportViewer.ProcessingObjectModel.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1449.0\lib\net40\Microsoft.ReportViewer.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.Types, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.SqlServer.Types.14.0.314.76\lib\net40\Microsoft.SqlServer.Types.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.IO.Compression" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Ban.cs">
+      <DependentUpon>HighlandsCoffee.tt</DependentUpon>
+    </Compile>
+    <Compile Include="BangChamCong.cs">
+      <DependentUpon>HighlandsCoffee.tt</DependentUpon>
+    </Compile>
+    <Compile Include="BangUngLuong.cs">
+      <DependentUpon>HighlandsCoffee.tt</DependentUpon>
+    </Compile>
+    <Compile Include="CaLamViec.cs">
+      <DependentUpon>HighlandsCoffee.tt</DependentUpon>
+    </Compile>
+    <Compile Include="ChiTietDatHang.cs">
+      <DependentUpon>HighlandsCoffee.tt</DependentUpon>
+    </Compile>
+    <Compile Include="ChiTietDatHangLuuTam.cs" />
+    <Compile Include="ChiTietHoaDon.cs">
+      <DependentUpon>HighlandsCoffee.tt</DependentUpon>
+    </Compile>
+    <Compile Include="ChiTietHoaDonLuuTam.cs" />
+    <Compile Include="DanhMuc.cs">
+      <DependentUpon>HighlandsCoffee.tt</DependentUpon>
+    </Compile>
+    <Compile Include="DataSetBCC.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSetBCC.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSetChiTietDatHang.cs">
+      <DependentUpon>DataSetChiTietDatHang.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSetChiTietDatHang.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSetChiTietDatHang.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSetHoaDon.cs">
+      <DependentUpon>DataSetHoaDon.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSetHoaDon.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSetHoaDon.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSetLuongNV.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSetLuongNV.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSetLuongQLNV.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSetLuongQLNV.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSetUngLuong.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSetUngLuong.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DonDatHang.cs">
+      <DependentUpon>HighlandsCoffee.tt</DependentUpon>
+    </Compile>
+    <Compile Include="frmBangChamCong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBangChamCong.Designer.cs">
+      <DependentUpon>frmBangChamCong.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmChiTietLuuTamHoaDon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmChiTietLuuTamHoaDon.Designer.cs">
+      <DependentUpon>frmChiTietLuuTamHoaDon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmChiTietPhieuNhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmChiTietPhieuNhap.Designer.cs">
+      <DependentUpon>frmChiTietPhieuNhap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDangNhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDangNhap.designer.cs">
+      <DependentUpon>frmDangNhap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDoanhSoNhanVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDoanhSoNhanVien.Designer.cs">
+      <DependentUpon>frmDoanhSoNhanVien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmHighlands.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmHighlands.Designer.cs">
+      <DependentUpon>frmHighlands.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmInHoaDon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmInHoaDon.Designer.cs">
+      <DependentUpon>frmInHoaDon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmBanHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBanHang.designer.cs">
+      <DependentUpon>frmBanHang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmHang.designer.cs">
+      <DependentUpon>frmHang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMain.designer.cs">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMainNV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMainNV.designer.cs">
+      <DependentUpon>frmMainNV.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmNhapHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmNhapHang.Designer.cs">
+      <DependentUpon>frmNhapHang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmQLBan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmQLBan.Designer.cs">
+      <DependentUpon>frmQLBan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmQLCa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmQLCa.Designer.cs">
+      <DependentUpon>frmQLCa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmReportBangChamCong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmReportBangChamCong.Designer.cs">
+      <DependentUpon>frmReportBangChamCong.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmTaoDonHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTaoDonHang.designer.cs">
+      <DependentUpon>frmTaoDonHang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmQLKhachHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmQLKhachHang.designer.cs">
+      <DependentUpon>frmQLKhachHang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmQLKhuyenMai.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmQLKhuyenMai.Designer.cs">
+      <DependentUpon>frmQLKhuyenMai.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmQLLuong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmQLLuong.Designer.cs">
+      <DependentUpon>frmQLLuong.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmQLNguyenLieu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmQLNguyenLieu.designer.cs">
+      <DependentUpon>frmQLNguyenLieu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmQLNhanVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmQLNhanVien.Designer.cs">
+      <DependentUpon>frmQLNhanVien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmQLTaiKhoan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmQLTaiKhoan.designer.cs">
+      <DependentUpon>frmQLTaiKhoan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmReportLuong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmReportLuong.Designer.cs">
+      <DependentUpon>frmReportLuong.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmReportUngLuong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmReportUngLuong.Designer.cs">
+      <DependentUpon>frmReportUngLuong.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmThongKeDoanhThu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmThongKeDoanhThu.designer.cs">
+      <DependentUpon>frmThongKeDoanhThu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmUngLuong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmUngLuong.Designer.cs">
+      <DependentUpon>frmUngLuong.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmXemChiTietDonDat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmXemChiTietDonDat.Designer.cs">
+      <DependentUpon>frmXemChiTietDonDat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HangBan.cs">
+      <DependentUpon>HighlandsCoffee.tt</DependentUpon>
+    </Compile>
+    <Compile Include="HangHoa.cs">
+      <DependentUpon>HighlandsCoffee.tt</DependentUpon>
+    </Compile>
+    <Compile Include="HangKhachMua.cs" />
+    <Compile Include="HangThongKe.cs" />
+    <Compile Include="HighlandsCoffee.Context.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>HighlandsCoffee.Context.tt</DependentUpon>
+    </Compile>
+    <Compile Include="HighlandsCoffee.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>HighlandsCoffee.tt</DependentUpon>
+    </Compile>
+    <Compile Include="HighlandsCoffee.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>HighlandsCoffee.edmx</DependentUpon>
+    </Compile>
+    <Compile Include="HoaDon.cs">
+      <DependentUpon>HighlandsCoffee.tt</DependentUpon>
+    </Compile>
+    <Compile Include="HoaDonLuuTam.cs" />
+    <Compile Include="frmLuuTamHoaDon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLuuTamHoaDon.Designer.cs">
+      <DependentUpon>frmLuuTamHoaDon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KhachHang.cs">
+      <DependentUpon>HighlandsCoffee.tt</DependentUpon>
+    </Compile>
+    <Compile Include="KhuyenMai.cs">
+      <DependentUpon>HighlandsCoffee.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Luong.cs">
+      <DependentUpon>HighlandsCoffee.tt</DependentUpon>
+    </Compile>
+    <Compile Include="NguyenLieu.cs">
+      <DependentUpon>HighlandsCoffee.tt</DependentUpon>
+    </Compile>
+    <Compile Include="NhaCC.cs">
+      <DependentUpon>HighlandsCoffee.tt</DependentUpon>
+    </Compile>
+    <Compile Include="NhanVien.cs">
+      <DependentUpon>HighlandsCoffee.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="frmQLNhaCungCap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmQLNhaCungCap.Designer.cs">
+      <DependentUpon>frmQLNhaCungCap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SizeHang.cs">
+      <DependentUpon>HighlandsCoffee.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SqlServerTypes\Loader.cs" />
+    <Compile Include="sysdiagram.cs">
+      <DependentUpon>HighlandsCoffee.tt</DependentUpon>
+    </Compile>
+    <Compile Include="TaiKhoan.cs">
+      <DependentUpon>HighlandsCoffee.tt</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="frmBangChamCong.resx">
+      <DependentUpon>frmBangChamCong.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmChiTietLuuTamHoaDon.resx">
+      <DependentUpon>frmChiTietLuuTamHoaDon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmChiTietPhieuNhap.resx">
+      <DependentUpon>frmChiTietPhieuNhap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDangNhap.resx">
+      <DependentUpon>frmDangNhap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDoanhSoNhanVien.resx">
+      <DependentUpon>frmDoanhSoNhanVien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmHighlands.resx">
+      <DependentUpon>frmHighlands.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmInHoaDon.resx">
+      <DependentUpon>frmInHoaDon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBanHang.resx">
+      <DependentUpon>frmBanHang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmHang.resx">
+      <DependentUpon>frmHang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMain.resx">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMainNV.resx">
+      <DependentUpon>frmMainNV.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmNhapHang.resx">
+      <DependentUpon>frmNhapHang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmQLBan.resx">
+      <DependentUpon>frmQLBan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmQLCa.resx">
+      <DependentUpon>frmQLCa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmReportBangChamCong.resx">
+      <DependentUpon>frmReportBangChamCong.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTaoDonHang.resx">
+      <DependentUpon>frmTaoDonHang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmQLKhachHang.resx">
+      <DependentUpon>frmQLKhachHang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmQLKhuyenMai.resx">
+      <DependentUpon>frmQLKhuyenMai.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmQLLuong.resx">
+      <DependentUpon>frmQLLuong.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmQLNguyenLieu.resx">
+      <DependentUpon>frmQLNguyenLieu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmQLNhanVien.resx">
+      <DependentUpon>frmQLNhanVien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmQLTaiKhoan.resx">
+      <DependentUpon>frmQLTaiKhoan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmReportLuong.resx">
+      <DependentUpon>frmReportLuong.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmReportUngLuong.resx">
+      <DependentUpon>frmReportUngLuong.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmThongKeDoanhThu.resx">
+      <DependentUpon>frmThongKeDoanhThu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLuuTamHoaDon.resx">
+      <DependentUpon>frmLuuTamHoaDon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmUngLuong.resx">
+      <DependentUpon>frmUngLuong.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmXemChiTietDonDat.resx">
+      <DependentUpon>frmXemChiTietDonDat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="frmQLNhaCungCap.resx">
+      <DependentUpon>frmQLNhaCungCap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="reportBangCongNV.rdlc" />
+    <EmbeddedResource Include="ReportChamCong.rdlc" />
+    <EmbeddedResource Include="ReportChiTietDonDat.rdlc" />
+    <EmbeddedResource Include="ReportChiTietPhieuNhap.rdlc" />
+    <EmbeddedResource Include="ReportDoanhSoNhanVien.rdlc" />
+    <EmbeddedResource Include="ReportHoaDon.rdlc" />
+    <EmbeddedResource Include="ReportLuongNV.rdlc" />
+    <EmbeddedResource Include="ReportLuongQLNV.rdlc" />
+    <EmbeddedResource Include="ReportUngLuong.rdlc" />
+    <None Include="App.Config" />
+    <None Include="DataSetBCC.xsc">
+      <DependentUpon>DataSetBCC.xsd</DependentUpon>
+    </None>
+    <None Include="DataSetBCC.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSetBCC.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSetBCC.xss">
+      <DependentUpon>DataSetBCC.xsd</DependentUpon>
+    </None>
+    <None Include="DataSetChiTietDatHang.xsc">
+      <DependentUpon>DataSetChiTietDatHang.xsd</DependentUpon>
+    </None>
+    <None Include="DataSetChiTietDatHang.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSetChiTietDatHang.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSetChiTietDatHang.xss">
+      <DependentUpon>DataSetChiTietDatHang.xsd</DependentUpon>
+    </None>
+    <None Include="DataSetHoaDon.xsc">
+      <DependentUpon>DataSetHoaDon.xsd</DependentUpon>
+    </None>
+    <None Include="DataSetHoaDon.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSetHoaDon.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSetHoaDon.xss">
+      <DependentUpon>DataSetHoaDon.xsd</DependentUpon>
+    </None>
+    <None Include="DataSetLuongNV.xsc">
+      <DependentUpon>DataSetLuongNV.xsd</DependentUpon>
+    </None>
+    <None Include="DataSetLuongNV.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSetLuongNV.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSetLuongNV.xss">
+      <DependentUpon>DataSetLuongNV.xsd</DependentUpon>
+    </None>
+    <None Include="DataSetLuongQLNV.xsc">
+      <DependentUpon>DataSetLuongQLNV.xsd</DependentUpon>
+    </None>
+    <None Include="DataSetLuongQLNV.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSetLuongQLNV.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSetLuongQLNV.xss">
+      <DependentUpon>DataSetLuongQLNV.xsd</DependentUpon>
+    </None>
+    <None Include="DataSetUngLuong.xsc">
+      <DependentUpon>DataSetUngLuong.xsd</DependentUpon>
+    </None>
+    <None Include="DataSetUngLuong.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSetUngLuong.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSetUngLuong.xss">
+      <DependentUpon>DataSetUngLuong.xsd</DependentUpon>
+    </None>
+    <EntityDeploy Include="HighlandsCoffee.edmx">
+      <Generator>EntityModelCodeGenerator</Generator>
+      <LastGenOutput>HighlandsCoffee.Designer.cs</LastGenOutput>
+    </EntityDeploy>
+    <None Include="HighlandsCoffee.edmx.diagram">
+      <DependentUpon>HighlandsCoffee.edmx</DependentUpon>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\login.jpg" />
+    <None Include="Resources\BGlogin.jpg" />
+    <None Include="Resources\pv1443.jpg" />
+    <Content Include="HighlandsCoffee.Context.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>HighlandsCoffee.edmx</DependentUpon>
+      <LastGenOutput>HighlandsCoffee.Context.cs</LastGenOutput>
+    </Content>
+    <Content Include="HighlandsCoffee.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>HighlandsCoffee.edmx</DependentUpon>
+      <LastGenOutput>HighlandsCoffee.cs</LastGenOutput>
+    </Content>
+    <Content Include="SqlServerTypes\readme.htm" />
+    <Content Include="SqlServerTypes\x64\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x64\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <None Include="Resources\images1.jpg" />
+    <None Include="Resources\images.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="FOXITREADERLib">
+      <Guid>{3A8BD65E-9922-4162-A649-83F2D5326BBE}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>7</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Interop.Excel">
+      <Guid>{00020813-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>8</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

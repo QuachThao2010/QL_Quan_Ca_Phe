@@ -1,0 +1,1359 @@
+C:\Code Windows\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.csproj.AssemblyReference.cache
+C:\Code Windows\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.csproj.ResolveComReference.cache
+C:\Code Windows\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmBanHang.resources
+C:\Code Windows\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmHang.resources
+C:\Code Windows\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmThongKeDoanhThu.resources
+C:\Code Windows\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.Properties.Resources.resources
+C:\Code Windows\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.csproj.GenerateResource.cache
+C:\Code Windows\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.csproj.CoreCompileInputs.cache
+C:\Code Windows\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\BTLHighlandsCoffee.exe.config
+C:\Code Windows\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\BTLHighlandsCoffee.exe
+C:\Code Windows\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\BTLHighlandsCoffee.pdb
+C:\Code Windows\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\EntityFramework.dll
+C:\Code Windows\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\EntityFramework.SqlServer.dll
+C:\Code Windows\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\EntityFramework.xml
+C:\Code Windows\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\EntityFramework.SqlServer.xml
+C:\Code Windows\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.csproj.CopyComplete
+C:\Code Windows\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.exe
+C:\Code Windows\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.pdb
+C:\Code Windows\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\FontAwesome.Sharp.dll
+C:\Code Windows\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmMain.resources
+C:\Code Windows\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmLuuTamHoaDon.resources
+C:\Code Windows\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmQLNhanVien.resources
+C:\Code Windows\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Code Windows\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Code Windows\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Code Windows\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Code Windows\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Code Windows\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Code Windows\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Code Windows\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Code Windows\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Code Windows\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Code Windows\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\EnvDTE.dll
+C:\Code Windows\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Code Windows\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Code Windows\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\stdole.dll
+C:\Code Windows\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Code Windows\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Code Windows\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Code Windows\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.MSXML.dll
+C:\Code Windows\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Code Windows\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Code Windows\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Code Windows\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Code Windows\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Code Windows\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Code Windows\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Code Windows\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Code Windows\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Code Windows\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Code Windows\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Code Windows\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Code Windows\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Code Windows\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Code Windows\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Code Windows\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Code Windows\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Code Windows\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Code Windows\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Code Windows\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Code Windows\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Code Windows\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Code Windows\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Code Windows\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Code Windows\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Code Windows\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Code Windows\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Code Windows\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Code Windows\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Code Windows\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Code Windows\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmInHoaDon.resources
+C:\Code Windows\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\RdlCompile.cache
+C:\Code Windows\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\RdlCompile.compiled
+C:\Code Windows\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmQLKhachHang.resources
+C:\Code Windows\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmDangNhap.resources
+C:\Code Windows\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmHighlands.resources
+C:\Code Windows\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmChiTietLuuTamHoaDon.resources
+C:\Code Windows\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\Interop.FOXITREADERLib.dll
+C:\Code Windows\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Code Windows\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Code Windows\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Code Windows\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Code Windows\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Code Windows\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Code Windows\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Code Windows\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Code Windows\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Code Windows\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Code Windows\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmQLBan.resources
+C:\Code Windows\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmQLLuong.resources
+C:\Code Windows\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmReportLuong.resources
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\BTLHighlandsCoffee.exe.config
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\BTLHighlandsCoffee.exe
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\BTLHighlandsCoffee.pdb
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\EntityFramework.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\EntityFramework.SqlServer.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\FontAwesome.Sharp.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\EnvDTE.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\stdole.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.MSXML.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\EntityFramework.xml
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\EntityFramework.SqlServer.xml
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.csproj.AssemblyReference.cache
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\Interop.FOXITREADERLib.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.csproj.ResolveComReference.cache
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmChiTietLuuTamHoaDon.resources
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmDangNhap.resources
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmHighlands.resources
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmInHoaDon.resources
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmBanHang.resources
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmHang.resources
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmMain.resources
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmQLBan.resources
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmQLKhachHang.resources
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmQLLuong.resources
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmQLNhanVien.resources
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmReportLuong.resources
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmThongKeDoanhThu.resources
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmLuuTamHoaDon.resources
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.Properties.Resources.resources
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.csproj.GenerateResource.cache
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\RdlCompile.cache
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\RdlCompile.compiled
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.csproj.CoreCompileInputs.cache
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.csproj.CopyComplete
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.exe
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.pdb
+D:\WINDOWS\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\WINDOWS\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\WINDOWS\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\WINDOWS\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\WINDOWS\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\BTLHighlandsCoffee.exe.config
+D:\WINDOWS\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\BTLHighlandsCoffee.exe
+D:\WINDOWS\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\BTLHighlandsCoffee.pdb
+D:\WINDOWS\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\EntityFramework.dll
+D:\WINDOWS\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\EntityFramework.SqlServer.dll
+D:\WINDOWS\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\FontAwesome.Sharp.dll
+D:\WINDOWS\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\WINDOWS\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\WINDOWS\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\WINDOWS\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\WINDOWS\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\WINDOWS\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\EnvDTE.dll
+D:\WINDOWS\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\WINDOWS\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\WINDOWS\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\WINDOWS\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\stdole.dll
+D:\WINDOWS\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\WINDOWS\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\WINDOWS\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\WINDOWS\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.MSXML.dll
+D:\WINDOWS\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\EntityFramework.xml
+D:\WINDOWS\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\EntityFramework.SqlServer.xml
+D:\WINDOWS\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\WINDOWS\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\WINDOWS\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\WINDOWS\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\WINDOWS\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\WINDOWS\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\WINDOWS\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\WINDOWS\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\WINDOWS\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\WINDOWS\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\WINDOWS\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\WINDOWS\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\WINDOWS\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\WINDOWS\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\WINDOWS\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\WINDOWS\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\WINDOWS\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\WINDOWS\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\WINDOWS\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\WINDOWS\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\WINDOWS\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\WINDOWS\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\WINDOWS\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\WINDOWS\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\WINDOWS\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\WINDOWS\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\WINDOWS\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\WINDOWS\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\WINDOWS\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\WINDOWS\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\WINDOWS\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\WINDOWS\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\WINDOWS\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\WINDOWS\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\WINDOWS\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\WINDOWS\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\WINDOWS\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\WINDOWS\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\WINDOWS\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\WINDOWS\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\WINDOWS\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.csproj.AssemblyReference.cache
+D:\WINDOWS\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\Interop.FOXITREADERLib.dll
+D:\WINDOWS\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.csproj.ResolveComReference.cache
+D:\WINDOWS\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmChiTietLuuTamHoaDon.resources
+D:\WINDOWS\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmDangNhap.resources
+D:\WINDOWS\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmHighlands.resources
+D:\WINDOWS\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmInHoaDon.resources
+D:\WINDOWS\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmBanHang.resources
+D:\WINDOWS\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmHang.resources
+D:\WINDOWS\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmMain.resources
+D:\WINDOWS\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmQLBan.resources
+D:\WINDOWS\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmQLKhachHang.resources
+D:\WINDOWS\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmQLLuong.resources
+D:\WINDOWS\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmQLNhanVien.resources
+D:\WINDOWS\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmReportLuong.resources
+D:\WINDOWS\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmThongKeDoanhThu.resources
+D:\WINDOWS\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmLuuTamHoaDon.resources
+D:\WINDOWS\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.Properties.Resources.resources
+D:\WINDOWS\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.csproj.GenerateResource.cache
+D:\WINDOWS\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\RdlCompile.cache
+D:\WINDOWS\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\RdlCompile.compiled
+D:\WINDOWS\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.csproj.CoreCompileInputs.cache
+D:\WINDOWS\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.csproj.CopyComplete
+D:\WINDOWS\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.exe
+D:\WINDOWS\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.pdb
+D:\WINDOWS\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmHienThiChiTietDonNhap.resources
+D:\WINDOWS\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmQLHangNhap.resources
+D:\WINDOWS\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmQLTaiKhoan.resources
+D:\WINDOWS\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmThongKeHangNhap.resources
+C:\Users\User\Downloads\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\Interop.FOXITREADERLib.dll
+C:\Users\User\Downloads\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.csproj.ResolveComReference.cache
+C:\Users\User\Downloads\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmChiTietLuuTamHoaDon.resources
+C:\Users\User\Downloads\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmDangNhap.resources
+C:\Users\User\Downloads\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmHienThiChiTietDonNhap.resources
+C:\Users\User\Downloads\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmHighlands.resources
+C:\Users\User\Downloads\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmInHoaDon.resources
+C:\Users\User\Downloads\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmBanHang.resources
+C:\Users\User\Downloads\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmHang.resources
+C:\Users\User\Downloads\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmMain.resources
+C:\Users\User\Downloads\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmQLBan.resources
+C:\Users\User\Downloads\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmQLHangNhap.resources
+C:\Users\User\Downloads\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmQLKhachHang.resources
+C:\Users\User\Downloads\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmQLLuong.resources
+C:\Users\User\Downloads\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmQLNhanVien.resources
+C:\Users\User\Downloads\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmQLTaiKhoan.resources
+C:\Users\User\Downloads\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmReportLuong.resources
+C:\Users\User\Downloads\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmThongKeDoanhThu.resources
+C:\Users\User\Downloads\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmLuuTamHoaDon.resources
+C:\Users\User\Downloads\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmThongKeHangNhap.resources
+C:\Users\User\Downloads\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.Properties.Resources.resources
+C:\Users\User\Downloads\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.csproj.GenerateResource.cache
+C:\Users\User\Downloads\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\RdlCompile.cache
+C:\Users\User\Downloads\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\RdlCompile.compiled
+C:\Users\User\Downloads\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.exe
+C:\Users\User\Downloads\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.pdb
+C:\Users\User\Downloads\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\User\Downloads\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\User\Downloads\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\User\Downloads\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\User\Downloads\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\BTLHighlandsCoffee.exe.config
+C:\Users\User\Downloads\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\BTLHighlandsCoffee.exe
+C:\Users\User\Downloads\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\BTLHighlandsCoffee.pdb
+C:\Users\User\Downloads\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\EntityFramework.dll
+C:\Users\User\Downloads\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Downloads\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\User\Downloads\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\User\Downloads\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\User\Downloads\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\User\Downloads\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\User\Downloads\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\User\Downloads\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\EnvDTE.dll
+C:\Users\User\Downloads\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\User\Downloads\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\User\Downloads\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\User\Downloads\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\stdole.dll
+C:\Users\User\Downloads\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\User\Downloads\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\User\Downloads\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\User\Downloads\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.MSXML.dll
+C:\Users\User\Downloads\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\EntityFramework.xml
+C:\Users\User\Downloads\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Downloads\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\Downloads\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\Downloads\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\Downloads\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\Downloads\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\Downloads\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\Downloads\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\Downloads\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\Downloads\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\Downloads\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\Downloads\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\Downloads\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\Downloads\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\Downloads\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\Downloads\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\Downloads\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\Downloads\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\Downloads\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\Downloads\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\Downloads\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\Downloads\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\Downloads\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\Downloads\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\Downloads\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\Downloads\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\Downloads\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\Downloads\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\Downloads\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\Downloads\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\Downloads\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\Downloads\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\Downloads\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\Downloads\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\Downloads\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\Downloads\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\Downloads\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\Downloads\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\Downloads\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\Downloads\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\Downloads\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\Downloads\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.csproj.CopyComplete
+C:\Users\User\Downloads\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmQLKhuyenMai.resources
+C:\Users\User\Downloads\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmDoanhSoNhanVien.resources
+D:\WINDOWS\BTL\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.csproj.AssemblyReference.cache
+D:\WINDOWS\BTL\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\Interop.FOXITREADERLib.dll
+D:\WINDOWS\BTL\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.csproj.ResolveComReference.cache
+D:\WINDOWS\BTL\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmChiTietLuuTamHoaDon.resources
+D:\WINDOWS\BTL\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmDangNhap.resources
+D:\WINDOWS\BTL\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmDoanhSoNhanVien.resources
+D:\WINDOWS\BTL\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmHighlands.resources
+D:\WINDOWS\BTL\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmInHoaDon.resources
+D:\WINDOWS\BTL\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmBanHang.resources
+D:\WINDOWS\BTL\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmHang.resources
+D:\WINDOWS\BTL\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmMain.resources
+D:\WINDOWS\BTL\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmQLBan.resources
+D:\WINDOWS\BTL\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmQLHangNhap.resources
+D:\WINDOWS\BTL\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmQLKhachHang.resources
+D:\WINDOWS\BTL\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmQLKhuyenMai.resources
+D:\WINDOWS\BTL\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmQLLuong.resources
+D:\WINDOWS\BTL\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmQLNhanVien.resources
+D:\WINDOWS\BTL\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmQLTaiKhoan.resources
+D:\WINDOWS\BTL\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmReportLuong.resources
+D:\WINDOWS\BTL\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmThongKeDoanhThu.resources
+D:\WINDOWS\BTL\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmLuuTamHoaDon.resources
+D:\WINDOWS\BTL\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmThongKeHangNhap.resources
+D:\WINDOWS\BTL\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.Properties.Resources.resources
+D:\WINDOWS\BTL\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.csproj.GenerateResource.cache
+D:\WINDOWS\BTL\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\RdlCompile.cache
+D:\WINDOWS\BTL\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\RdlCompile.compiled
+D:\WINDOWS\BTL\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.csproj.CoreCompileInputs.cache
+D:\WINDOWS\BTL\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.exe
+D:\WINDOWS\BTL\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.pdb
+D:\WINDOWS\BTL\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\WINDOWS\BTL\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\WINDOWS\BTL\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\WINDOWS\BTL\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\WINDOWS\BTL\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\BTLHighlandsCoffee.exe.config
+D:\WINDOWS\BTL\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\BTLHighlandsCoffee.exe
+D:\WINDOWS\BTL\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\BTLHighlandsCoffee.pdb
+D:\WINDOWS\BTL\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\EntityFramework.dll
+D:\WINDOWS\BTL\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\EntityFramework.SqlServer.dll
+D:\WINDOWS\BTL\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\FontAwesome.Sharp.dll
+D:\WINDOWS\BTL\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\WINDOWS\BTL\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\WINDOWS\BTL\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\WINDOWS\BTL\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\WINDOWS\BTL\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\WINDOWS\BTL\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\EnvDTE.dll
+D:\WINDOWS\BTL\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\WINDOWS\BTL\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\WINDOWS\BTL\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\WINDOWS\BTL\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\stdole.dll
+D:\WINDOWS\BTL\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\WINDOWS\BTL\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\WINDOWS\BTL\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\WINDOWS\BTL\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.MSXML.dll
+D:\WINDOWS\BTL\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\EntityFramework.xml
+D:\WINDOWS\BTL\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\EntityFramework.SqlServer.xml
+D:\WINDOWS\BTL\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\WINDOWS\BTL\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\WINDOWS\BTL\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\WINDOWS\BTL\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\WINDOWS\BTL\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\WINDOWS\BTL\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\WINDOWS\BTL\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\WINDOWS\BTL\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\WINDOWS\BTL\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\WINDOWS\BTL\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\WINDOWS\BTL\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\WINDOWS\BTL\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\WINDOWS\BTL\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\WINDOWS\BTL\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\WINDOWS\BTL\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\WINDOWS\BTL\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\WINDOWS\BTL\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\WINDOWS\BTL\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\WINDOWS\BTL\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\WINDOWS\BTL\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\WINDOWS\BTL\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\WINDOWS\BTL\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\WINDOWS\BTL\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\WINDOWS\BTL\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\WINDOWS\BTL\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\WINDOWS\BTL\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\WINDOWS\BTL\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\WINDOWS\BTL\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\WINDOWS\BTL\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\WINDOWS\BTL\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\WINDOWS\BTL\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\WINDOWS\BTL\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\WINDOWS\BTL\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\WINDOWS\BTL\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\WINDOWS\BTL\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\WINDOWS\BTL\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\WINDOWS\BTL\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\WINDOWS\BTL\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\WINDOWS\BTL\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\WINDOWS\BTL\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\WINDOWS\BTL\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.csproj.CopyComplete
+D:\WINDOWS\BTL\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmXemChiTietDonDat.resources
+D:\WINDOWS\BTL\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmNhapHang.resources
+D:\WINDOWS\BTL\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmQLNhaCungCap.resources
+D:\WINDOWS\BTL\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmQLNguyenLieu.resources
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\BTLHighlandsCoffee.exe.config
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\BTLHighlandsCoffee.exe
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\BTLHighlandsCoffee.pdb
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\EntityFramework.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\EntityFramework.SqlServer.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\FontAwesome.Sharp.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\EnvDTE.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\stdole.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.MSXML.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\EntityFramework.xml
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\EntityFramework.SqlServer.xml
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.csproj.AssemblyReference.cache
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\Interop.FOXITREADERLib.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.csproj.ResolveComReference.cache
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmChiTietLuuTamHoaDon.resources
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmDangNhap.resources
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmDoanhSoNhanVien.resources
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmHighlands.resources
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmInHoaDon.resources
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmBanHang.resources
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmHang.resources
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmMain.resources
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmNhapHang.resources
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmQLBan.resources
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmQLHangNhap.resources
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmQLKhachHang.resources
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmQLKhuyenMai.resources
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmQLLuong.resources
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmQLNguyenLieu.resources
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmQLNhanVien.resources
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmQLTaiKhoan.resources
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmReportLuong.resources
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmThongKeDoanhThu.resources
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmLuuTamHoaDon.resources
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmThongKeHangNhap.resources
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmXemChiTietDonDat.resources
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.Properties.Resources.resources
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmQLNhaCungCap.resources
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.csproj.GenerateResource.cache
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\RdlCompile.cache
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\RdlCompile.compiled
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.csproj.CoreCompileInputs.cache
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.csproj.CopyComplete
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.exe
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.pdb
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmBangChamCong.resources
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmQLCa.resources
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmReportBCC.resources
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmReportUngLuong.resources
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmUngLuong.resources
+D:\WINDOWS\Last\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.csproj.AssemblyReference.cache
+D:\WINDOWS\Last\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\Interop.FOXITREADERLib.dll
+D:\WINDOWS\Last\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.csproj.ResolveComReference.cache
+D:\WINDOWS\Last\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmBangChamCong.resources
+D:\WINDOWS\Last\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmChiTietLuuTamHoaDon.resources
+D:\WINDOWS\Last\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmDangNhap.resources
+D:\WINDOWS\Last\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmDoanhSoNhanVien.resources
+D:\WINDOWS\Last\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmHighlands.resources
+D:\WINDOWS\Last\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmInHoaDon.resources
+D:\WINDOWS\Last\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmBanHang.resources
+D:\WINDOWS\Last\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmHang.resources
+D:\WINDOWS\Last\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmMain.resources
+D:\WINDOWS\Last\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmNhapHang.resources
+D:\WINDOWS\Last\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmQLBan.resources
+D:\WINDOWS\Last\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmQLCa.resources
+D:\WINDOWS\Last\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmQLKhachHang.resources
+D:\WINDOWS\Last\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmQLKhuyenMai.resources
+D:\WINDOWS\Last\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmQLLuong.resources
+D:\WINDOWS\Last\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmQLNguyenLieu.resources
+D:\WINDOWS\Last\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmQLNhanVien.resources
+D:\WINDOWS\Last\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmQLTaiKhoan.resources
+D:\WINDOWS\Last\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmReportBCC.resources
+D:\WINDOWS\Last\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmReportLuong.resources
+D:\WINDOWS\Last\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmReportUngLuong.resources
+D:\WINDOWS\Last\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmThongKeDoanhThu.resources
+D:\WINDOWS\Last\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmLuuTamHoaDon.resources
+D:\WINDOWS\Last\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmUngLuong.resources
+D:\WINDOWS\Last\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmXemChiTietDonDat.resources
+D:\WINDOWS\Last\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.Properties.Resources.resources
+D:\WINDOWS\Last\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmQLNhaCungCap.resources
+D:\WINDOWS\Last\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.csproj.GenerateResource.cache
+D:\WINDOWS\Last\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\RdlCompile.cache
+D:\WINDOWS\Last\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\RdlCompile.compiled
+D:\WINDOWS\Last\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.csproj.CoreCompileInputs.cache
+D:\WINDOWS\Last\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.exe
+D:\WINDOWS\Last\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.pdb
+D:\WINDOWS\Last\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\WINDOWS\Last\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\WINDOWS\Last\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\WINDOWS\Last\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\WINDOWS\Last\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\BTLHighlandsCoffee.exe.config
+D:\WINDOWS\Last\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\BTLHighlandsCoffee.exe
+D:\WINDOWS\Last\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\BTLHighlandsCoffee.pdb
+D:\WINDOWS\Last\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\EntityFramework.dll
+D:\WINDOWS\Last\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\EntityFramework.SqlServer.dll
+D:\WINDOWS\Last\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ExcelDataReader.DataSet.dll
+D:\WINDOWS\Last\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ExcelDataReader.dll
+D:\WINDOWS\Last\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\FontAwesome.Sharp.dll
+D:\WINDOWS\Last\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\WINDOWS\Last\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\WINDOWS\Last\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\WINDOWS\Last\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\WINDOWS\Last\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\WINDOWS\Last\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\EnvDTE.dll
+D:\WINDOWS\Last\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\WINDOWS\Last\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\WINDOWS\Last\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\WINDOWS\Last\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\stdole.dll
+D:\WINDOWS\Last\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\WINDOWS\Last\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\WINDOWS\Last\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\WINDOWS\Last\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.MSXML.dll
+D:\WINDOWS\Last\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\EntityFramework.xml
+D:\WINDOWS\Last\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\EntityFramework.SqlServer.xml
+D:\WINDOWS\Last\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ExcelDataReader.pdb
+D:\WINDOWS\Last\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ExcelDataReader.xml
+D:\WINDOWS\Last\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ExcelDataReader.DataSet.pdb
+D:\WINDOWS\Last\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ExcelDataReader.DataSet.xml
+D:\WINDOWS\Last\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\WINDOWS\Last\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\WINDOWS\Last\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\WINDOWS\Last\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\WINDOWS\Last\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\WINDOWS\Last\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\WINDOWS\Last\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\WINDOWS\Last\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\WINDOWS\Last\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\WINDOWS\Last\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\WINDOWS\Last\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\WINDOWS\Last\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\WINDOWS\Last\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\WINDOWS\Last\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\WINDOWS\Last\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\WINDOWS\Last\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\WINDOWS\Last\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\WINDOWS\Last\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\WINDOWS\Last\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\WINDOWS\Last\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\WINDOWS\Last\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\WINDOWS\Last\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\WINDOWS\Last\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\WINDOWS\Last\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\WINDOWS\Last\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\WINDOWS\Last\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\WINDOWS\Last\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\WINDOWS\Last\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\WINDOWS\Last\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\WINDOWS\Last\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\WINDOWS\Last\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\WINDOWS\Last\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\WINDOWS\Last\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\WINDOWS\Last\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\WINDOWS\Last\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\WINDOWS\Last\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\WINDOWS\Last\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\WINDOWS\Last\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\WINDOWS\Last\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\WINDOWS\Last\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\WINDOWS\Last\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.csproj.CopyComplete
+D:\WINDOWS\Last\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmChiTietPhieuNhap.resources
+D:\WINDOWS\Last\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmTaoDonHang.resources
+C:\Code Windows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Code Windows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Code Windows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Code Windows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Code Windows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\BTLHighlandsCoffee.exe.config
+C:\Code Windows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\BTLHighlandsCoffee.exe
+C:\Code Windows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\BTLHighlandsCoffee.pdb
+C:\Code Windows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\EntityFramework.dll
+C:\Code Windows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\EntityFramework.SqlServer.dll
+C:\Code Windows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Code Windows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ExcelDataReader.dll
+C:\Code Windows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\FontAwesome.Sharp.dll
+C:\Code Windows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Code Windows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Code Windows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Code Windows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Code Windows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Code Windows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\EnvDTE.dll
+C:\Code Windows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Code Windows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Code Windows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Code Windows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\stdole.dll
+C:\Code Windows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Code Windows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Code Windows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Code Windows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.MSXML.dll
+C:\Code Windows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\EntityFramework.xml
+C:\Code Windows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\EntityFramework.SqlServer.xml
+C:\Code Windows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ExcelDataReader.pdb
+C:\Code Windows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ExcelDataReader.xml
+C:\Code Windows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Code Windows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Code Windows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Code Windows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Code Windows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Code Windows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Code Windows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Code Windows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Code Windows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Code Windows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Code Windows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Code Windows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Code Windows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Code Windows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Code Windows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Code Windows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Code Windows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Code Windows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Code Windows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Code Windows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Code Windows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Code Windows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Code Windows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Code Windows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Code Windows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Code Windows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Code Windows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Code Windows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Code Windows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Code Windows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Code Windows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Code Windows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Code Windows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Code Windows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Code Windows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Code Windows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Code Windows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Code Windows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Code Windows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Code Windows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Code Windows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Code Windows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Code Windows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.csproj.AssemblyReference.cache
+C:\Code Windows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\Interop.FOXITREADERLib.dll
+C:\Code Windows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.csproj.ResolveComReference.cache
+C:\Code Windows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmBangChamCong.resources
+C:\Code Windows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmChiTietLuuTamHoaDon.resources
+C:\Code Windows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmChiTietPhieuNhap.resources
+C:\Code Windows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmDangNhap.resources
+C:\Code Windows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmDoanhSoNhanVien.resources
+C:\Code Windows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmHighlands.resources
+C:\Code Windows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmInHoaDon.resources
+C:\Code Windows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmBanHang.resources
+C:\Code Windows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmHang.resources
+C:\Code Windows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmMain.resources
+C:\Code Windows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmNhapHang.resources
+C:\Code Windows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmQLBan.resources
+C:\Code Windows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmQLCa.resources
+C:\Code Windows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmTaoDonHang.resources
+C:\Code Windows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmQLKhachHang.resources
+C:\Code Windows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmQLKhuyenMai.resources
+C:\Code Windows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmQLLuong.resources
+C:\Code Windows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmQLNguyenLieu.resources
+C:\Code Windows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmQLNhanVien.resources
+C:\Code Windows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmQLTaiKhoan.resources
+C:\Code Windows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmReportLuong.resources
+C:\Code Windows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmReportUngLuong.resources
+C:\Code Windows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmThongKeDoanhThu.resources
+C:\Code Windows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmLuuTamHoaDon.resources
+C:\Code Windows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmUngLuong.resources
+C:\Code Windows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmXemChiTietDonDat.resources
+C:\Code Windows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.Properties.Resources.resources
+C:\Code Windows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmQLNhaCungCap.resources
+C:\Code Windows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.csproj.GenerateResource.cache
+C:\Code Windows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\RdlCompile.cache
+C:\Code Windows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\RdlCompile.compiled
+C:\Code Windows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.csproj.CoreCompileInputs.cache
+C:\Code Windows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.csproj.CopyComplete
+C:\Code Windows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.exe
+C:\Code Windows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.pdb
+C:\Code Windows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmReportBangChamCong.resources
+D:\WINDOWS\lastest\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\WINDOWS\lastest\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\WINDOWS\lastest\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\WINDOWS\lastest\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\WINDOWS\lastest\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\BTLHighlandsCoffee.exe.config
+D:\WINDOWS\lastest\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\BTLHighlandsCoffee.exe
+D:\WINDOWS\lastest\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\BTLHighlandsCoffee.pdb
+D:\WINDOWS\lastest\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\EntityFramework.dll
+D:\WINDOWS\lastest\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\EntityFramework.SqlServer.dll
+D:\WINDOWS\lastest\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ExcelDataReader.DataSet.dll
+D:\WINDOWS\lastest\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ExcelDataReader.dll
+D:\WINDOWS\lastest\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\FontAwesome.Sharp.dll
+D:\WINDOWS\lastest\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\WINDOWS\lastest\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\WINDOWS\lastest\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\WINDOWS\lastest\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\WINDOWS\lastest\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\WINDOWS\lastest\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\EnvDTE.dll
+D:\WINDOWS\lastest\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\WINDOWS\lastest\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\WINDOWS\lastest\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\WINDOWS\lastest\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\stdole.dll
+D:\WINDOWS\lastest\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\WINDOWS\lastest\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\WINDOWS\lastest\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\WINDOWS\lastest\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.MSXML.dll
+D:\WINDOWS\lastest\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\EntityFramework.xml
+D:\WINDOWS\lastest\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\EntityFramework.SqlServer.xml
+D:\WINDOWS\lastest\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ExcelDataReader.pdb
+D:\WINDOWS\lastest\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ExcelDataReader.xml
+D:\WINDOWS\lastest\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ExcelDataReader.DataSet.pdb
+D:\WINDOWS\lastest\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ExcelDataReader.DataSet.xml
+D:\WINDOWS\lastest\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\WINDOWS\lastest\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\WINDOWS\lastest\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\WINDOWS\lastest\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\WINDOWS\lastest\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\WINDOWS\lastest\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\WINDOWS\lastest\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\WINDOWS\lastest\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\WINDOWS\lastest\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\WINDOWS\lastest\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\WINDOWS\lastest\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\WINDOWS\lastest\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\WINDOWS\lastest\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\WINDOWS\lastest\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\WINDOWS\lastest\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\WINDOWS\lastest\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\WINDOWS\lastest\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\WINDOWS\lastest\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\WINDOWS\lastest\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\WINDOWS\lastest\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\WINDOWS\lastest\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\WINDOWS\lastest\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\WINDOWS\lastest\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\WINDOWS\lastest\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\WINDOWS\lastest\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\WINDOWS\lastest\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\WINDOWS\lastest\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\WINDOWS\lastest\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\WINDOWS\lastest\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\WINDOWS\lastest\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\WINDOWS\lastest\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\WINDOWS\lastest\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\WINDOWS\lastest\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\WINDOWS\lastest\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\WINDOWS\lastest\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\WINDOWS\lastest\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\WINDOWS\lastest\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\WINDOWS\lastest\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\WINDOWS\lastest\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\WINDOWS\lastest\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\WINDOWS\lastest\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.csproj.AssemblyReference.cache
+D:\WINDOWS\lastest\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\Interop.FOXITREADERLib.dll
+D:\WINDOWS\lastest\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.csproj.ResolveComReference.cache
+D:\WINDOWS\lastest\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmBangChamCong.resources
+D:\WINDOWS\lastest\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmChiTietLuuTamHoaDon.resources
+D:\WINDOWS\lastest\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmChiTietPhieuNhap.resources
+D:\WINDOWS\lastest\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmDangNhap.resources
+D:\WINDOWS\lastest\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmDoanhSoNhanVien.resources
+D:\WINDOWS\lastest\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmHighlands.resources
+D:\WINDOWS\lastest\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmInHoaDon.resources
+D:\WINDOWS\lastest\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmBanHang.resources
+D:\WINDOWS\lastest\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmHang.resources
+D:\WINDOWS\lastest\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmMain.resources
+D:\WINDOWS\lastest\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmNhapHang.resources
+D:\WINDOWS\lastest\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmQLBan.resources
+D:\WINDOWS\lastest\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmQLCa.resources
+D:\WINDOWS\lastest\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmReportBangChamCong.resources
+D:\WINDOWS\lastest\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmTaoDonHang.resources
+D:\WINDOWS\lastest\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmQLKhachHang.resources
+D:\WINDOWS\lastest\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmQLKhuyenMai.resources
+D:\WINDOWS\lastest\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmQLLuong.resources
+D:\WINDOWS\lastest\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmQLNguyenLieu.resources
+D:\WINDOWS\lastest\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmQLNhanVien.resources
+D:\WINDOWS\lastest\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmQLTaiKhoan.resources
+D:\WINDOWS\lastest\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmReportLuong.resources
+D:\WINDOWS\lastest\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmReportUngLuong.resources
+D:\WINDOWS\lastest\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmThongKeDoanhThu.resources
+D:\WINDOWS\lastest\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmLuuTamHoaDon.resources
+D:\WINDOWS\lastest\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmUngLuong.resources
+D:\WINDOWS\lastest\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmXemChiTietDonDat.resources
+D:\WINDOWS\lastest\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.Properties.Resources.resources
+D:\WINDOWS\lastest\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmQLNhaCungCap.resources
+D:\WINDOWS\lastest\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.csproj.GenerateResource.cache
+D:\WINDOWS\lastest\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\RdlCompile.cache
+D:\WINDOWS\lastest\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\RdlCompile.compiled
+D:\WINDOWS\lastest\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.csproj.CoreCompileInputs.cache
+D:\WINDOWS\lastest\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.csproj.CopyComplete
+D:\WINDOWS\lastest\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.exe
+D:\WINDOWS\lastest\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.pdb
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\BTLHighlandsCoffee.exe.config
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\BTLHighlandsCoffee.exe
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\BTLHighlandsCoffee.pdb
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\EntityFramework.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\EntityFramework.SqlServer.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ExcelDataReader.DataSet.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ExcelDataReader.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\FontAwesome.Sharp.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\EnvDTE.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\stdole.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.MSXML.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\EntityFramework.xml
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\EntityFramework.SqlServer.xml
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ExcelDataReader.pdb
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ExcelDataReader.xml
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ExcelDataReader.DataSet.pdb
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ExcelDataReader.DataSet.xml
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.csproj.AssemblyReference.cache
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\Interop.FOXITREADERLib.dll
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.csproj.ResolveComReference.cache
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmBangChamCong.resources
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmChiTietLuuTamHoaDon.resources
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmChiTietPhieuNhap.resources
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmDangNhap.resources
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmDoanhSoNhanVien.resources
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmHighlands.resources
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmInHoaDon.resources
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmBanHang.resources
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmHang.resources
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmMain.resources
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmNhapHang.resources
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmQLBan.resources
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmQLCa.resources
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmReportBangChamCong.resources
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmTaoDonHang.resources
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmQLKhachHang.resources
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmQLKhuyenMai.resources
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmQLLuong.resources
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmQLNguyenLieu.resources
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmQLNhanVien.resources
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmQLTaiKhoan.resources
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmReportLuong.resources
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmReportUngLuong.resources
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmThongKeDoanhThu.resources
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmLuuTamHoaDon.resources
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmUngLuong.resources
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmXemChiTietDonDat.resources
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.Properties.Resources.resources
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmQLNhaCungCap.resources
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.csproj.GenerateResource.cache
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\RdlCompile.cache
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\RdlCompile.compiled
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.csproj.CoreCompileInputs.cache
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.csproj.CopyComplete
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.exe
+D:\LapTrinhWindows\BTLWindows\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.pdb
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\BTLHighlandsCoffee.exe.config
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\BTLHighlandsCoffee.exe
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\BTLHighlandsCoffee.pdb
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\EntityFramework.dll
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\EntityFramework.SqlServer.dll
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ExcelDataReader.DataSet.dll
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ExcelDataReader.dll
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\FontAwesome.Sharp.dll
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\EnvDTE.dll
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\stdole.dll
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.MSXML.dll
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\EntityFramework.xml
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\EntityFramework.SqlServer.xml
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ExcelDataReader.pdb
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ExcelDataReader.xml
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ExcelDataReader.DataSet.pdb
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ExcelDataReader.DataSet.xml
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.csproj.AssemblyReference.cache
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\Interop.FOXITREADERLib.dll
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.csproj.ResolveComReference.cache
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmBangChamCong.resources
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmChiTietLuuTamHoaDon.resources
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmChiTietPhieuNhap.resources
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmDangNhap.resources
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmDoanhSoNhanVien.resources
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmHighlands.resources
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmInHoaDon.resources
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmBanHang.resources
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmHang.resources
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmMain.resources
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmNhapHang.resources
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmQLBan.resources
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmQLCa.resources
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmReportBangChamCong.resources
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmTaoDonHang.resources
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmQLKhachHang.resources
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmQLKhuyenMai.resources
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmQLLuong.resources
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmQLNguyenLieu.resources
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmQLNhanVien.resources
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmQLTaiKhoan.resources
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmReportLuong.resources
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmReportUngLuong.resources
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmThongKeDoanhThu.resources
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmLuuTamHoaDon.resources
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmUngLuong.resources
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmXemChiTietDonDat.resources
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.Properties.Resources.resources
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmQLNhaCungCap.resources
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.csproj.GenerateResource.cache
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\RdlCompile.cache
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\RdlCompile.compiled
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.csproj.CoreCompileInputs.cache
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.csproj.CopyComplete
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.exe
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.pdb
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmMainNV.resources
+C:\Users\User\Downloads\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\User\Downloads\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\User\Downloads\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\User\Downloads\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\User\Downloads\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\BTLHighlandsCoffee.exe.config
+C:\Users\User\Downloads\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\BTLHighlandsCoffee.exe
+C:\Users\User\Downloads\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\BTLHighlandsCoffee.pdb
+C:\Users\User\Downloads\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\EntityFramework.dll
+C:\Users\User\Downloads\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Downloads\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\User\Downloads\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ExcelDataReader.dll
+C:\Users\User\Downloads\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\User\Downloads\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\User\Downloads\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\User\Downloads\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\User\Downloads\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\User\Downloads\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\User\Downloads\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\EnvDTE.dll
+C:\Users\User\Downloads\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\User\Downloads\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\User\Downloads\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\User\Downloads\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\stdole.dll
+C:\Users\User\Downloads\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\User\Downloads\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\User\Downloads\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\User\Downloads\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.MSXML.dll
+C:\Users\User\Downloads\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\EntityFramework.xml
+C:\Users\User\Downloads\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Downloads\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ExcelDataReader.pdb
+C:\Users\User\Downloads\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ExcelDataReader.xml
+C:\Users\User\Downloads\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\User\Downloads\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\User\Downloads\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\Downloads\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\Downloads\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\Downloads\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\Downloads\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\Downloads\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\Downloads\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\Downloads\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\Downloads\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\Downloads\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\Downloads\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\Downloads\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\Downloads\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\Downloads\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\Downloads\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\Downloads\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\Downloads\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\Downloads\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\Downloads\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\Downloads\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\Downloads\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\Downloads\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\Downloads\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\Downloads\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\Downloads\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\Downloads\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\Downloads\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\Downloads\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\Downloads\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\Downloads\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\Downloads\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\Downloads\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\Downloads\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\Downloads\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\Downloads\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\Downloads\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\Downloads\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\Downloads\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\Downloads\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\Downloads\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\Downloads\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\Interop.FOXITREADERLib.dll
+C:\Users\User\Downloads\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.csproj.ResolveComReference.cache
+C:\Users\User\Downloads\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmBangChamCong.resources
+C:\Users\User\Downloads\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmChiTietLuuTamHoaDon.resources
+C:\Users\User\Downloads\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmChiTietPhieuNhap.resources
+C:\Users\User\Downloads\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmDangNhap.resources
+C:\Users\User\Downloads\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmDoanhSoNhanVien.resources
+C:\Users\User\Downloads\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmHighlands.resources
+C:\Users\User\Downloads\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmInHoaDon.resources
+C:\Users\User\Downloads\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmBanHang.resources
+C:\Users\User\Downloads\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmHang.resources
+C:\Users\User\Downloads\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmMain.resources
+C:\Users\User\Downloads\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmMainNV.resources
+C:\Users\User\Downloads\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmNhapHang.resources
+C:\Users\User\Downloads\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmQLBan.resources
+C:\Users\User\Downloads\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmQLCa.resources
+C:\Users\User\Downloads\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmReportBangChamCong.resources
+C:\Users\User\Downloads\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmTaoDonHang.resources
+C:\Users\User\Downloads\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmQLKhachHang.resources
+C:\Users\User\Downloads\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmQLKhuyenMai.resources
+C:\Users\User\Downloads\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmQLLuong.resources
+C:\Users\User\Downloads\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmQLNguyenLieu.resources
+C:\Users\User\Downloads\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmQLNhanVien.resources
+C:\Users\User\Downloads\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmQLTaiKhoan.resources
+C:\Users\User\Downloads\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmReportLuong.resources
+C:\Users\User\Downloads\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmReportUngLuong.resources
+C:\Users\User\Downloads\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmThongKeDoanhThu.resources
+C:\Users\User\Downloads\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmLuuTamHoaDon.resources
+C:\Users\User\Downloads\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmUngLuong.resources
+C:\Users\User\Downloads\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmXemChiTietDonDat.resources
+C:\Users\User\Downloads\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.Properties.Resources.resources
+C:\Users\User\Downloads\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmQLNhaCungCap.resources
+C:\Users\User\Downloads\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.csproj.GenerateResource.cache
+C:\Users\User\Downloads\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\RdlCompile.cache
+C:\Users\User\Downloads\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\RdlCompile.compiled
+C:\Users\User\Downloads\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.csproj.CopyComplete
+C:\Users\User\Downloads\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.exe
+C:\Users\User\Downloads\BTLHighlandsCoffee (1)\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.pdb
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\BTLHighlandsCoffee.exe.config
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\BTLHighlandsCoffee.exe
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\BTLHighlandsCoffee.pdb
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\EntityFramework.dll
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\EntityFramework.SqlServer.dll
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ExcelDataReader.DataSet.dll
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ExcelDataReader.dll
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\FontAwesome.Sharp.dll
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\EnvDTE.dll
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\stdole.dll
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\Microsoft.MSXML.dll
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\EntityFramework.xml
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\EntityFramework.SqlServer.xml
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ExcelDataReader.pdb
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ExcelDataReader.xml
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ExcelDataReader.DataSet.pdb
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ExcelDataReader.DataSet.xml
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.csproj.AssemblyReference.cache
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\Interop.FOXITREADERLib.dll
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.csproj.ResolveComReference.cache
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmBangChamCong.resources
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmChiTietLuuTamHoaDon.resources
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmChiTietPhieuNhap.resources
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmDangNhap.resources
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmDoanhSoNhanVien.resources
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmHighlands.resources
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmInHoaDon.resources
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmBanHang.resources
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmHang.resources
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmMain.resources
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmMainNV.resources
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmNhapHang.resources
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmQLBan.resources
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmQLCa.resources
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmReportBangChamCong.resources
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmTaoDonHang.resources
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmQLKhachHang.resources
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmQLKhuyenMai.resources
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmQLLuong.resources
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmQLNguyenLieu.resources
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmQLNhanVien.resources
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmQLTaiKhoan.resources
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmReportLuong.resources
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmReportUngLuong.resources
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmThongKeDoanhThu.resources
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmLuuTamHoaDon.resources
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmUngLuong.resources
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmXemChiTietDonDat.resources
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.Properties.Resources.resources
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.frmQLNhaCungCap.resources
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.csproj.GenerateResource.cache
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\RdlCompile.cache
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\RdlCompile.compiled
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.csproj.CoreCompileInputs.cache
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.csproj.CopyComplete
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.exe
+D:\WINDOWS\ENDGAME\BTLHighlandsCoffee\BTLHighlandsCoffee\BTLHighlandsCoffee\obj\Debug\BTLHighlandsCoffee.pdb

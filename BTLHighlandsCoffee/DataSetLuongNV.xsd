@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataSetLuongNV" targetNamespace="http://tempuri.org/DataSetLuongNV.xsd" xmlns:mstns="http://tempuri.org/DataSetLuongNV.xsd" xmlns="http://tempuri.org/DataSetLuongNV.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="2" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="ManagerHighlandsCoffeeConnectionString1" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="ManagerHighlandsCoffeeConnectionString1 (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.BTLHighlandsCoffee.Properties.Settings.GlobalReference.Default.ManagerHighlandsCoffeeConnectionString1" Provider="System.Data.SqlClient" />
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="ManagerHighlandsCoffeeConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="ManagerHighlandsCoffeeConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.BTLHighlandsCoffee.Properties.Settings.GlobalReference.Default.ManagerHighlandsCoffeeConnectionString" Provider="System.Data.SqlClient" />
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="ManagerHighlandsCoffeeConnectionString2" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="ManagerHighlandsCoffeeConnectionString2 (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.BTLHighlandsCoffee.Properties.Settings.GlobalReference.Default.ManagerHighlandsCoffeeConnectionString2" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="DataTable1TableAdapter" GeneratorDataComponentClassName="DataTable1TableAdapter" Name="DataTable1" UserDataComponentName="DataTable1TableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="ManagerHighlandsCoffeeConnectionString2 (Settings)" DbObjectType="Unknown" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT Luong.MaNV, Luong.MaCLV, Luong.NgayCong, Luong.Thuong, Luong.TongLuong, Luong.LuongThang, Luong.LuongNam, NhanVien.TenNV, NhanVien.ChucVu
+FROM     Luong INNER JOIN
+                  NhanVien ON Luong.MaNV = NhanVien.MaNV
+WHERE  (Luong.LuongThang =
+                      (SELECT MAX(LuongThang) AS Expr1
+                       FROM      Luong AS Luong_2)) AND (Luong.LuongNam =
+                      (SELECT MAX(LuongNam) AS Expr1
+                       FROM      Luong AS Luong_1))</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="MaNV" DataSetColumn="MaNV" />
+              <Mapping SourceColumn="MaCLV" DataSetColumn="MaCLV" />
+              <Mapping SourceColumn="NgayCong" DataSetColumn="NgayCong" />
+              <Mapping SourceColumn="Thuong" DataSetColumn="Thuong" />
+              <Mapping SourceColumn="TongLuong" DataSetColumn="TongLuong" />
+              <Mapping SourceColumn="LuongThang" DataSetColumn="LuongThang" />
+              <Mapping SourceColumn="LuongNam" DataSetColumn="LuongNam" />
+              <Mapping SourceColumn="TenNV" DataSetColumn="TenNV" />
+              <Mapping SourceColumn="ChucVu" DataSetColumn="ChucVu" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataSetLuongNV" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DataSetLuongNV" msprop:Generator_UserDSName="DataSetLuongNV">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="DataTable1" msprop:Generator_TableClassName="DataTable1DataTable" msprop:Generator_TableVarName="tableDataTable1" msprop:Generator_RowChangedName="DataTable1RowChanged" msprop:Generator_TablePropName="DataTable1" msprop:Generator_RowDeletingName="DataTable1RowDeleting" msprop:Generator_RowChangingName="DataTable1RowChanging" msprop:Generator_RowEvHandlerName="DataTable1RowChangeEventHandler" msprop:Generator_RowDeletedName="DataTable1RowDeleted" msprop:Generator_RowClassName="DataTable1Row" msprop:Generator_UserTableName="DataTable1" msprop:Generator_RowEvArgName="DataTable1RowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="MaNV" msprop:Generator_ColumnVarNameInTable="columnMaNV" msprop:Generator_ColumnPropNameInRow="MaNV" msprop:Generator_ColumnPropNameInTable="MaNVColumn" msprop:Generator_UserColumnName="MaNV">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="MaCLV" msprop:Generator_ColumnVarNameInTable="columnMaCLV" msprop:Generator_ColumnPropNameInRow="MaCLV" msprop:Generator_ColumnPropNameInTable="MaCLVColumn" msprop:Generator_UserColumnName="MaCLV">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="NgayCong" msprop:Generator_ColumnVarNameInTable="columnNgayCong" msprop:Generator_ColumnPropNameInRow="NgayCong" msprop:Generator_ColumnPropNameInTable="NgayCongColumn" msprop:Generator_UserColumnName="NgayCong" type="xs:double" />
+              <xs:element name="Thuong" msprop:Generator_ColumnVarNameInTable="columnThuong" msprop:Generator_ColumnPropNameInRow="Thuong" msprop:Generator_ColumnPropNameInTable="ThuongColumn" msprop:Generator_UserColumnName="Thuong" type="xs:double" minOccurs="0" />
+              <xs:element name="TongLuong" msprop:Generator_ColumnVarNameInTable="columnTongLuong" msprop:Generator_ColumnPropNameInRow="TongLuong" msprop:Generator_ColumnPropNameInTable="TongLuongColumn" msprop:Generator_UserColumnName="TongLuong" type="xs:double" />
+              <xs:element name="LuongThang" msprop:Generator_ColumnVarNameInTable="columnLuongThang" msprop:Generator_ColumnPropNameInRow="LuongThang" msprop:Generator_ColumnPropNameInTable="LuongThangColumn" msprop:Generator_UserColumnName="LuongThang">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="LuongNam" msprop:Generator_ColumnVarNameInTable="columnLuongNam" msprop:Generator_ColumnPropNameInRow="LuongNam" msprop:Generator_ColumnPropNameInTable="LuongNamColumn" msprop:Generator_UserColumnName="LuongNam">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="TenNV" msprop:Generator_ColumnVarNameInTable="columnTenNV" msprop:Generator_ColumnPropNameInRow="TenNV" msprop:Generator_ColumnPropNameInTable="TenNVColumn" msprop:Generator_UserColumnName="TenNV">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="ChucVu" msprop:Generator_ColumnVarNameInTable="columnChucVu" msprop:Generator_ColumnPropNameInRow="ChucVu" msprop:Generator_ColumnPropNameInTable="ChucVuColumn" msprop:Generator_UserColumnName="ChucVu">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:DataTable1" />
+      <xs:field xpath="mstns:MaNV" />
+      <xs:field xpath="mstns:MaCLV" />
+      <xs:field xpath="mstns:LuongThang" />
+      <xs:field xpath="mstns:LuongNam" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

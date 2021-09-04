@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="55aca206a9fb435da07c72c31a1b066f" Name="Diagram1">
+        <EntityTypeShape EntityType="ManagerHighlandsCoffeeModel.Ban" Width="1.5" PointX="0.75" PointY="13" IsExpanded="true" />
+        <EntityTypeShape EntityType="ManagerHighlandsCoffeeModel.BangChamCong" Width="1.5" PointX="3" PointY="9" IsExpanded="true" />
+        <EntityTypeShape EntityType="ManagerHighlandsCoffeeModel.BangUngLuong" Width="1.5" PointX="6" PointY="9.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="ManagerHighlandsCoffeeModel.CaLamViec" Width="1.5" PointX="3.75" PointY="1.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="ManagerHighlandsCoffeeModel.ChiTietDatHang" Width="1.5" PointX="8.25" PointY="5.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="ManagerHighlandsCoffeeModel.ChiTietHoaDon" Width="1.5" PointX="5.25" PointY="13.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="ManagerHighlandsCoffeeModel.DanhMuc" Width="1.5" PointX="1.5" PointY="23.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="ManagerHighlandsCoffeeModel.DonDatHang" Width="1.5" PointX="3" PointY="4.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="ManagerHighlandsCoffeeModel.HangBan" Width="1.5" PointX="3" PointY="20.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="ManagerHighlandsCoffeeModel.HangHoa" Width="1.5" PointX="0.75" PointY="19.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="ManagerHighlandsCoffeeModel.HoaDon" Width="1.5" PointX="3" PointY="12.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="ManagerHighlandsCoffeeModel.KhachHang" Width="1.5" PointX="0.75" PointY="15.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="ManagerHighlandsCoffeeModel.KhuyenMai" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="ManagerHighlandsCoffeeModel.Luong" Width="1.5" PointX="6" PointY="4.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="ManagerHighlandsCoffeeModel.NguyenLieu" Width="1.5" PointX="6" PointY="1.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="ManagerHighlandsCoffeeModel.NhaCC" Width="1.5" PointX="0.75" PointY="5.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="ManagerHighlandsCoffeeModel.NhanVien" Width="1.5" PointX="0.75" PointY="8.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="ManagerHighlandsCoffeeModel.SizeHang" Width="1.5" PointX="0.75" PointY="26.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="ManagerHighlandsCoffeeModel.sysdiagram" Width="1.5" PointX="8.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="ManagerHighlandsCoffeeModel.TaiKhoan" Width="1.5" PointX="8.75" PointY="8.75" IsExpanded="true" />
+        <AssociationConnector Association="ManagerHighlandsCoffeeModel.FK__HoaDon__MaBan__5812160E" ManuallyRouted="false" />
+        <AssociationConnector Association="ManagerHighlandsCoffeeModel.FK__BangChamC__MaCLV__47DBAE45" ManuallyRouted="false" />
+        <AssociationConnector Association="ManagerHighlandsCoffeeModel.FK__BangChamCo__MaNV__46E78A0C" ManuallyRouted="false" />
+        <AssociationConnector Association="ManagerHighlandsCoffeeModel.FK__BangUngLu__MaCLV__4BAC3F29" ManuallyRouted="false" />
+        <AssociationConnector Association="ManagerHighlandsCoffeeModel.FK__BangUngLuo__MaNV__4AB81AF0" ManuallyRouted="false" />
+        <AssociationConnector Association="ManagerHighlandsCoffeeModel.FK__Luong__MaCLV__4F7CD00D" ManuallyRouted="false" />
+        <AssociationConnector Association="ManagerHighlandsCoffeeModel.FK__ChiTietDa__MaDDH__66603565" ManuallyRouted="false" />
+        <AssociationConnector Association="ManagerHighlandsCoffeeModel.FK__ChiTietDat__MaNL__6754599E" ManuallyRouted="false" />
+        <AssociationConnector Association="ManagerHighlandsCoffeeModel.FK__ChiTietHo__MaHoa__5AEE82B9" ManuallyRouted="false" />
+        <AssociationConnector Association="ManagerHighlandsCoffeeModel.FK__ChiTietHoaDon__5BE2A6F2" ManuallyRouted="false" />
+        <AssociationConnector Association="ManagerHighlandsCoffeeModel.FK__HangHoa__MaDM__3A81B327" ManuallyRouted="false" />
+        <AssociationConnector Association="ManagerHighlandsCoffeeModel.FK__DonDatHan__MaNCC__628FA481" ManuallyRouted="false" />
+        <AssociationConnector Association="ManagerHighlandsCoffeeModel.FK__DonDatHang__MaNV__6383C8BA" ManuallyRouted="false" />
+        <AssociationConnector Association="ManagerHighlandsCoffeeModel.FK__HangBan__MaHang__3F466844" ManuallyRouted="false" />
+        <AssociationConnector Association="ManagerHighlandsCoffeeModel.FK__HangBan__Size__403A8C7D" ManuallyRouted="false" />
+        <AssociationConnector Association="ManagerHighlandsCoffeeModel.FK__HoaDon__MaKH__571DF1D5" ManuallyRouted="false" />
+        <AssociationConnector Association="ManagerHighlandsCoffeeModel.FK__HoaDon__MaNV__5629CD9C" ManuallyRouted="false" />
+        <AssociationConnector Association="ManagerHighlandsCoffeeModel.FK__Luong__MaNV__4E88ABD4" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
